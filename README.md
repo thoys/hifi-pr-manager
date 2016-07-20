@@ -8,4 +8,4 @@ Manage your High Fidelity PR installations
 
 hifi-pr-manager is not officially associated with High Fidelity, and is used on own risk. 
 
-I have used Visual Studio 2013 to build this project. You might need to install .Net Framework 4.0 to run this application.
+I have used Visual Studio 2013 to build this project. You might need to install .Net Framework 4.5 to run this application.
