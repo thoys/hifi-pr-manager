@@ -4,7 +4,7 @@ Manage your High Fidelity PR installations
 ![Screenshot](https://raw.githubusercontent.com/thoys/hifi-pr-manager/master/screenshot.png)
 
 
-[Download High Fidelity](https://github.com/thoys/hifi-pr-manager/blob/master/bin/Release/HiFi-PR-Manager.exe?raw=true)
+[Download HiFi-PR-Manager ](https://github.com/thoys/hifi-pr-manager/blob/master/bin/Release/HiFi-PR-Manager.exe?raw=true)
 
 hifi-pr-manager is not officially associated with High Fidelity, and is used on own risk. 
 
